@@ -1,0 +1,3 @@
+[submodule "lastdisco-admin"]
+	path = lastdisco-admin
+	url = https://github.com/jjisolo/lastdisco-admin
